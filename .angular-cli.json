@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "styles": [
+        "theme.scss",
+        "styles.scss"
+      ]
+    },
+    {
+      "assets": [
+        {
+          "glob": "**/*",
+          "input": "../node_modules/@covalent/code-editor/assets/monaco",
+          "output": "./assets/monaco/"
+        }
+      ]
+    }
+  ]
+}
