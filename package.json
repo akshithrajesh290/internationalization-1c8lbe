@@ -9,7 +9,7 @@
     "zone.js": "0.8.12",
     "rxjs-compat": "6.2.1",
     "@angular/cdk": "6.0.0-rc.5",
-    "@angular/core": "6.0.0-rc.5",
+    "@angular/core": "10.2.5",
     "@angular/http": "6.0.0-rc.5",
     "@angular/forms": "6.0.0-rc.5",
     "@covalent/core": "2.0.0-beta.1",
